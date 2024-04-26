@@ -4,13 +4,10 @@
 
 🌸 My background in digital marketing over the last four years has provided me with an in-depth understanding of the user experience, which I enjoy leveraging as a software developer to help my team maximize product success and write clean and efficient code.
 
-🐝 Learn more about me below! 
+Learn more about me below! 
 
-LinkedIn:
-- https://www.linkedin.com/in/samantha-garabedian/
+LinkedIn: https://www.linkedin.com/in/samantha-garabedian/
 
-Resume:
-- https://drive.google.com/file/d/1zr4RquAxktSU-_v7Ik2JJgzxVaD71o1u/view?usp=sharing
+Resume: https://drive.google.com/file/d/1zr4RquAxktSU-_v7Ik2JJgzxVaD71o1u/view?usp=sharing
 
-Portfolio:
-- https://samantha-garabedian.my.canva.site/
+Portfolio: https://samantha-garabedian.my.canva.site/
