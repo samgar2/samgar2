@@ -7,5 +7,5 @@
 Learn more about me below! 
 
 - LinkedIn: https://www.linkedin.com/in/samantha-garabedian/
-- Resume: https://drive.google.com/file/d/1zr4RquAxktSU-_v7Ik2JJgzxVaD71o1u/view?usp=sharing
+- Resume: https://drive.google.com/file/d/10iCwlpfDT2xxWFAAR9mAigRBM0rvrC_L/view?usp=sharing
 - Portfolio: https://samantha-garabedian.my.canva.site/
